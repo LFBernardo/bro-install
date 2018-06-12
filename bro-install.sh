@@ -20,4 +20,4 @@ echo "##########################################################################
 
 echo "Please see https://www.digitalocean.com/community/tutorials/how-to-install-bro-on-ubuntu-16-04 from step 4 to complete the manual configuration"
 echo "There are many steps that are required for the final configuration which are not covered her"
-echo" I make no claim of ownership or copyright. All such rights are retained by the original creators as listed in the URL supplied. Addtionally I make no claims of the correct function of this script and you run this completely at your own risk."
+echo "I make no claim of ownership or copyright. All such rights are retained by the original creators as listed in the URL supplied. Addtionally I make no claims of the correct function of this script and you run this completely at your own risk."
