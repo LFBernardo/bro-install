@@ -10,7 +10,7 @@ mv GeoLiteCityv6.dat /usr/share/GeoIP/GeoIPCityv6.dat
 git clone --recursive git://git.bro.org/bro
 cd bro
 ./configure && make && sudo make install
-touch /etc/profile.d/3rd-party.sh
+./etc/profile.d/3rd-party.sh
 echo "export PATH=$PATH:/usr/local/bro/bin" > /etc/profile.d/3rd-party.sh
 source /etc/profile.d/3rd-party.sh
 
